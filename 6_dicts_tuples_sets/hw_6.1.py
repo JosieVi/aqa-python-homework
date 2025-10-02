@@ -15,7 +15,9 @@ import pytest
 # ('one', 1) ('three', 3) ('two', 2)
 
 sample_input = input().split()
+
 d = dict((el.split('=')[0], int(el.split('=')[1])) for el in sample_input)
+
 print(*sorted(d.items()))
 
 
@@ -60,6 +62,7 @@ for key in keys_to_check:
     if key not in d:
         flag = False
         break
+
 print("ДА" if flag else "НЕТ")
 
 
