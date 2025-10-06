@@ -31,13 +31,13 @@ The course covers key Python concepts essential for a confident start in program
 | **3.** | **Mastering Strings and Lists** | ✅ Completed |
 | **4.** | **Conditional Statements** (`if`, `else`, `elif`, Ternary Operator) | ✅ Completed |
 | **5.** | **Loops, Iterators, and List Comprehension** (`while`, `for`, `break`, `continue`) | ✅ Completed |
-| **6.** | **Dictionaries, Tuples, and Sets** | ⏳ In Progress |
+| **6.** | **Dictionaries, Tuples, and Sets** | ✅ Completed |
 
 ### III. Functions and Modularity
 
 | # | Topic | Status |
 | :--- | :--- | :--- |
-| **7.** | **Functions** (Declaration, `return`, `lambda`, Recursion, Decorators) | ⬜ Planned |
+| **7.** | **Functions** (Declaration, `return`, `lambda`, Recursion, Decorators) | ⏳ In Progress |
 | **8.** | **Modules and Packages. File Handling** | ⬜ Planned |
 
 ### IV. Advanced Topics
@@ -55,10 +55,9 @@ Each folder corresponds to a course section and contains the relevant code files
 
 AQA PYTHON/
 ├── 2_python_basics/
-│   ├── hw_2.1.py
+│ ├── hw_2.1.py
 ├── 3_strings_and_lists/
-│   ├── hw_3.1.py
-├── venv/                   
+│ ├── hw_3.1.py
+├── venv/
 ├── .gitignore
 └── README.md
-
