@@ -129,7 +129,6 @@ def get_path(n):
         return 2
     return get_path(n-1) + get_path(n-2)
 
-
 N = int(input())
 print(get_path(N))
 
