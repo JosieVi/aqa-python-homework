@@ -1,4 +1,4 @@
-# aqa-python-homework-
+# aqa-python-homework
 My personal workspace and code exercises for a comprehensive Python programming course.
 
 # 🐍 Python Fundamentals Course Workspace
@@ -37,8 +37,8 @@ The course covers key Python concepts essential for a confident start in program
 
 | # | Topic | Status |
 | :--- | :--- | :--- |
-| **7.** | **Functions** (Declaration, `return`, `lambda`, Recursion, Decorators) | ⏳ In Progress |
-| **8.** | **Modules and Packages. File Handling** | ⬜ Planned |
+| **7.** | **Functions** (Declaration, `return`, `lambda`, Recursion, Decorators) | ✅ Completed |
+| **8.** | **Modules and Packages. File Handling** | ⏳ In Progress |
 
 ### IV. Advanced Topics
 
