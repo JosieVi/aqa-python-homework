@@ -107,7 +107,6 @@ for _ in range(5):
 # ubbbPIay@mail.ru
 
 import random
-from string import ascii_lowercase, ascii_uppercase
 random.seed(1)
 
 N = int(input())
